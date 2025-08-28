@@ -14,7 +14,7 @@ This project analyzes Netflix content using Power BI. It provides insights into:
 - [Dashboard](https://github.com/suryapraakash/NETFLIX-POWERBI-DASHBOARD/blob/main/dashboard/Netflix%20sp.pbix)
 
 ## 📊 Dashboard Preview
-![Netflix Dashboard Screenshot](Dashboard_Screenshot.png)
+![Netflix Dashboard Screenshot](https://github.com/suryapraakash/NETFLIX-POWERBI-DASHBOARD/blob/main/visuals/netflix.png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repo.
@@ -30,3 +30,9 @@ This project analyzes Netflix content using Power BI. It provides insights into:
 ## 🔧 Tools Used
 - **Power BI** for dashboard development
 - **Excel/CSV** for dataset
+
+
+--
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+
