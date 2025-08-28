@@ -8,7 +8,7 @@ This project analyzes Netflix content using Power BI. It provides insights into:
 - IMDb-style ratings analysis
 
 ## 🗂 Dataset
-- Source: [Netflix Movies and TV Shows Dataset - Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
+- Source: [dataset](https://github.com/suryapraakash/NETFLIX-POWERBI-DASHBOARD/blob/main/data/Netflix%20Datasets%20Evaluation%20MS%20Excel.csv)
 
 ## 📊 Dashboard Preview
 ![Netflix Dashboard Screenshot](Dashboard_Screenshot.png)
