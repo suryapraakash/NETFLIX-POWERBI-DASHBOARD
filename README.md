@@ -34,5 +34,5 @@ This project analyzes Netflix content using Power BI. It provides insights into:
 
 --
 ## 🔗 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/suryaprakashpalani/)
+[LinkedIn](https://www.linkedin.com/in/suryaprakashpalani/)
 
